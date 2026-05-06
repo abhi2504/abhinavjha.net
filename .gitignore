@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
+*.log
+.env
+.env.local
+
+# Local secrets — never commit
+PAT.txt
+*.pat
+*.token
+secrets/
+credentials.*
