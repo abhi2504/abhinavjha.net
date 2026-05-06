@@ -454,10 +454,6 @@ body {
   .site-nav { gap: 1rem; }
 }
 
-@media (max-width: 420px) {
-  .site-nav a:not(.nav-cta) { display: none; }
-}
-
 /* ---------- Reduced motion ---------- */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
